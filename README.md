@@ -1,20 +1,21 @@
 # NLP-Projects
 This repository contains a comprehensive guide to natural language processing (NLP) text processing and analysis. It covers the following topics:
 
-**.** Text Pre-processing
-Text Representation
-Word2Vec
-Text Classification
-POS Tagging
-Text Pre-processing
+1. Text Pre-processing
+2. Text Representation
+3. Word2Vec
+4. Text Classification
+5. POS Tagging
+
+# Text Pre-processing
 Text pre-processing is the first and crucial step in NLP. It involves cleaning and transforming the raw text data into a format that can be easily analyzed. This section provides a detailed explanation of text pre-processing techniques, including:
 
-Lowercasing
-Removing punctuations and special characters
-Removing stop words
-Stemming and Lemmatization
-Removing HTML tags
-Text Representation
+1. Removing punctuations and special characters
+2. Removing stop words
+3. Stemming and Lemmatization
+4. Removing HTML tags
+   
+# Text Representation
 In NLP, text data needs to be transformed into numerical vectors for analysis. This section provides an overview of text representation techniques, including:
 
 One-hot encoding
