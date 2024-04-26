@@ -1,7 +1,7 @@
 # NLP-Projects
 This repository contains a comprehensive guide to natural language processing (NLP) text processing and analysis. It covers the following topics:
 
-**.**Text Pre-processing
+**.** Text Pre-processing
 Text Representation
 Word2Vec
 Text Classification
